@@ -13,6 +13,7 @@ document.getElementById('btn').addEventListener('click', function(){
        
 
         result.innerHTML = ""
+        
       
         for(let  i=0; i<requis.items.length; i++ ){
 

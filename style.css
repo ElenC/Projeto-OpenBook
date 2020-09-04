@@ -58,6 +58,7 @@ li a{
     cursor: pointer;
     font-family: 'Lexend Peta', sans-serif
 }
+
 .btn:hover{
     background-color: rgb(192, 38, 38);
     color: rgb(19, 15, 15);
